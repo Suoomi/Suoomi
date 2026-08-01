@@ -23,8 +23,8 @@ ${\textsf{\color{#98B8B7}¿Por}}$ ${\textsf{\color{#90C2C1}qué}}$ ${\textsf{\co
 <img width="99" height="56" alt="stamp (2)" src="https://github.com/user-attachments/assets/184b551b-9657-40f4-a74e-374701a65734" />
 <img width="99" height="56" alt="stamp (1)" src="https://github.com/user-attachments/assets/6e9ae560-ec5b-409f-ba7a-50b43e18470d" />
 <img width="99" height="56" alt="stamp (14)" src="https://github.com/user-attachments/assets/b69145ff-7434-46fa-8098-7eb0dfba101e" />
-<img width="99" height="56" alt="stamp (15)" src="https://github.com/user-attachments/assets/e2182170-44c3-45e4-9eaa-6435652c6849" />
 <img width="99" height="56" alt="stamp (16)" src="https://github.com/user-attachments/assets/c585c986-07ae-4d8b-ad55-2a56ef1d6225" />
+<img width="99" height="56" alt="stamp (17)" src="https://github.com/user-attachments/assets/3440ec3f-410d-4fa8-9d24-98a60f8f7a24" />
 
 
 
