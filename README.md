@@ -6,10 +6,26 @@
   
 ![](https://komarev.com/ghpvc/?username=Suoomi&color=132726&style=for-the-badge&label=Forgotten+witnesses)
 
-${\textsf{\color{#132726}Si}}$ ${\textsf{\color{#1C3332}viajas}}$ ${\textsf{\color{#26403E}todos}}$ ${\textsf{\color{#304C4A}los}}$ ${\textsf{\color{#395856}años}}$ ${\textsf{\color{#436562}a}}$ ${\textsf{\color{#4D716E}Italia}}$ <br>
-${\textsf{\color{#567D7A}Si}}$ ${\textsf{\color{#608A86}la}}$ ${\textsf{\color{#699692}cultura}}$ ${\textsf{\color{#73A29E}es}}$ ${\textsf{\color{#7DAFAB}tan}}$ ${\textsf{\color{#86BBB7}rica}}$ ${\textsf{\color{#90C2C1}en}}$ ${\textsf{\color{#94B5B4}Alemania}}$ <br>
-${\textsf{\color{#98B8B7}¿Por}}$ ${\textsf{\color{#90C2C1}qué}}$ ${\textsf{\color{#86BBB7}el}}$ ${\textsf{\color{#7DAFAB}próximo}}$ ${\textsf{\color{#73A29E}año}}$ ${\textsf{\color{#699692}no}}$ ${\textsf{\color{#608A86}te}}$ ${\textsf{\color{#567D7A}quedas}}$ ${\textsf{\color{#4D716E}allá?}}$
+${\textsf{\color{#132726}Maldito}}$ ${\textsf{\color{#18302F}sudaca,}}$ ${\textsf{\color{#1E3937}maldito}}$ ${\textsf{\color{#244341}latino}}$ <br>
+${\textsf{\color{#2B4D4A}Inmundo}}$ ${\textsf{\color{#335856}chileno,}}$ ${\textsf{\color{#3B6360}peruano}}$ ${\textsf{\color{#44706C}argentino}}$ <br>
+${\textsf{\color{#4D7D78}Maldito}}$ ${\textsf{\color{#578A84}sudaca,}}$ ${\textsf{\color{#132726}maldito}}$ ${\textsf{\color{#18302F}latino}}$ <br>
+${\textsf{\color{#1E3937}Inmundo}}$ ${\textsf{\color{#244341}chileno,}}$ ${\textsf{\color{#2B4D4A}peruano}}$ ${\textsf{\color{#335856}argentino}}$ <br>
+${\textsf{\color{#3B6360}No}}$ ${\textsf{\color{#44706C}pongas}}$ ${\textsf{\color{#4D7D78}tus}}$ ${\textsf{\color{#578A84}manos}}$ ${\textsf{\color{#132726}en}}$ ${\textsf{\color{#18302F}mi}}$ ${\textsf{\color{#1E3937}car}}$ <br>
+${\textsf{\color{#244341}No}}$ ${\textsf{\color{#2B4D4A}pongas}}$ ${\textsf{\color{#335856}tus}}$ ${\textsf{\color{#3B6360}dedos}}$ ${\textsf{\color{#44706C}en}}$ ${\textsf{\color{#4D7D78}mi}}$ ${\textsf{\color{#578A84}car}}$
 
+
+${\textsf{\color{#132726}Cochino}}$ ${\textsf{\color{#18302F}sudaca,}}$ ${\textsf{\color{#1E3937}cochino}}$ ${\textsf{\color{#244341}latino}}$ <br>
+${\textsf{\color{#2B4D4A}Horrible}}$ ${\textsf{\color{#335856}boliviano,}}$ ${\textsf{\color{#3B6360}vil}}$ ${\textsf{\color{#44706C}ecuatoriano}}$ <br>
+${\textsf{\color{#4D7D78}Cochino}}$ ${\textsf{\color{#578A84}sudaca,}}$ ${\textsf{\color{#132726}cochino}}$ ${\textsf{\color{#18302F}latino}}$ <br>
+${\textsf{\color{#1E3937}Horrible}}$ ${\textsf{\color{#244341}boliviano,}}$ ${\textsf{\color{#2B4D4A}vil}}$ ${\textsf{\color{#335856}ecuatoriano}}$ <br>
+${\textsf{\color{#3B6360}No}}$ ${\textsf{\color{#44706C}te}}$ ${\textsf{\color{#4D7D78}fijes}}$ ${\textsf{\color{#578A84}en}}$ ${\textsf{\color{#132726}mi}}$ ${\textsf{\color{#18302F}mujer}}$ <br>
+${\textsf{\color{#1E3937}No}}$ ${\textsf{\color{#244341}saludes}}$ ${\textsf{\color{#2B4D4A}a}}$ ${\textsf{\color{#335856}mi}}$ ${\textsf{\color{#3B6360}mujer}}$
+
+
+${\textsf{\color{#132726}Maldito}}$ ${\textsf{\color{#18302F}latino,}}$ ${\textsf{\color{#1E3937}maldito}}$ ${\textsf{\color{#244341}mexicano}}$ <br>
+${\textsf{\color{#2B4D4A}Maldito}}$ ${\textsf{\color{#335856}sudaca,}}$ ${\textsf{\color{#3B6360}maldito}}$ ${\textsf{\color{#44706C}colombiano}}$ <br>
+${\textsf{\color{#4D7D78}Maldito}}$ ${\textsf{\color{#578A84}latino,}}$ ${\textsf{\color{#132726}maldito}}$ ${\textsf{\color{#18302F}paraguayo}}$ <br>
+${\textsf{\color{#1E3937}Maldito}}$ ${\textsf{\color{#244341}sudaca,}}$ ${\textsf{\color{#2B4D4A}maldito}}$ ${\textsf{\color{#335856}latino}}$
 
 <img width="99" height="46" alt="stamp14" src="https://github.com/user-attachments/assets/b62da7f4-7021-496a-9d10-1db22a53840b" />
 <img width="99" height="46" alt="stamp13" src="https://github.com/user-attachments/assets/98183bfc-f94a-435f-80e7-c787519dabf1" />
@@ -29,9 +45,6 @@ ${\textsf{\color{#98B8B7}¿Por}}$ ${\textsf{\color{#90C2C1}qué}}$ ${\textsf{\co
 <img width="99" height="46" alt="stamp (10)" src="https://github.com/user-attachments/assets/56ca92a7-74f2-457c-8fb6-3ccfcb4859dc" />
 <img width="99" height="46" alt="stamp (9)" src="https://github.com/user-attachments/assets/fd8b73ee-03a2-4ad9-9f44-910474b5eef1" />
 <img width="99" height="46" alt="stamp (11)" src="https://github.com/user-attachments/assets/27439d7f-da6a-410d-b60e-3f704aee46b0" />
-
-
-
 
 
 [![cuz4.png](https://i.postimg.cc/zvw2vjzr/cuz4.png)](https://postimg.cc/ctHB5ft9)
